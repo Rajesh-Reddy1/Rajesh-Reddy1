@@ -11,9 +11,8 @@
 <h3 align="left">Code Never Lies💻</h3>
 
 ###
-<h3 align="center">A passionate frontend developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [rajeshreddy.is-a.dev](rajeshreddy.is-a.dev)
+- 👨‍💻 All of my projects are available at [rajeshreddy.is-a.dev](https://protfolio-max.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

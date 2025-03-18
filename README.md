@@ -12,7 +12,7 @@
 
 ###
 
-- 👨‍💻 All of my projects are available at [rajeshreddy.is-a.dev](https://protfolio-max.vercel.app/)
+- 👨‍💻 All of my projects are available at [rajeshreddy.is-a.dev](https://rajeshreddy.is-a.dev)
 
  - Connect with me: mrrajeshreddy1@gmail.com
 
